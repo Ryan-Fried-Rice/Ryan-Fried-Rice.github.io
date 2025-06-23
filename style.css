@@ -1,0 +1,115 @@
+body {
+  background: #799bcb;
+}
+p {
+  color: black;
+  
+
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+img {
+ 
+ 
+}
+
+.Wok{
+  float:right;
+  width: 275px;
+  margin-top: -250px;
+  border: solid 3px;
+  border-radius: 25px;
+}
+
+
+.toppings {
+  font-size: larger;
+  border: solid 3px;
+  border-radius: 25px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+  align-items:center;
+}
+
+.tools{
+  font-size: larger;
+  border: solid 3px;
+  border-radius: 25px;
+  width: 175px;
+  background-color: white
+  
+  
+}
+
+.Fried.Rice.img {
+  border: solid 3px;
+  border-radius: 25px;
+  width: 375px;
+  
+}
+
+.ingredients {
+  font-size: larger;
+  border: solid 3px;
+  border-radius: 25px;
+  width: 350px;
+  background-color: white;
+  
+}
+
+.instructions {
+  border: solid 3px;
+  border-radius: 25px;
+  width: 450px;
+  background-color: white;
+}
+
+.Topping-imgs {
+  width: 400px;
+  height: 250px;
+  display: flex;
+  border: solid 3px;
+  border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Nutritions {
+  font-size: larger;
+  border: solid 3px;
+  border-radius: 25px;
+  width: 875px;
+  background-color: white;
+  height: 250px
+ 
+}
+
+.Middle {
+  height: 100px;
+  border: solid 5px;
+  border-radius: 25px;
+  margin: 10px;
+  border-top-width: thick;
+}
+
+.QNA 
+{
+  height: 100px;
+  border: solid 5px;
+  border-radius: 25px;
+  margin: 10px;
+  border-top-width: thick;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
